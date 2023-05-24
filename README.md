@@ -14,3 +14,10 @@ git clone https://github.com/EstebanPerez25/ActividadFormativaM2-Equipo5.git
 * git merge (Fusiona contenidos de dos ramas)
 * git pull  (Descarga contenido de una rama de repositorio remoto a la rama local activa y ejecuta git merge inmediatamente
 
+
+## Flujo de trabajo
+1. Obtener versión actualizada (pull)
+2. Editar notebooks en Jupyter Notebook/Lab
+3. Guardar Notebook y **crear copia local** con otro nombre
+4. Hacer git add, commit y push para subir archivo a GitHub
+5. Obtener versión actualizada (pull) y repetir proceso
