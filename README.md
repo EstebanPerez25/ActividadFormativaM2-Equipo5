@@ -22,6 +22,7 @@ git clone https://github.com/EstebanPerez25/ActividadFormativaM2-Equipo5.git
 4. Hacer git add, commit y push para subir archivo a GitHub
 5. Obtener versión actualizada (pull) y repetir proceso
 
+
 ## Google Colaboratory and GitHub
 En Google Colab:
 ### Abrir (Pull)
@@ -30,4 +31,4 @@ Archivo -> Abrir cuaderno -> GitHub -> Abrir cuaderno en pestaña nueva (cuadrad
 Archivo -> Guardar una copia en GitHub
 ### Clonar repositorio y acceder
 1. Situarse en ruta en donde se desea colocar el repositorio: cd "gitProjects"
-! git clone https://github.com/EstebanPerez25/ActividadFormativaM2-Equipo5.git
+2. ! git clone https://github.com/EstebanPerez25/ActividadFormativaM2-Equipo5.git
